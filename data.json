@@ -1,4 +1,100 @@
 {
-  "updatedAt": "2026-10-15T08:06:17.002Z",
-  "videos": []
+  "updatedAt": "2026-10-15T08:06:48.569Z",
+  "videos": [
+    {
+      "id": "20261015-8e34d904",
+      "videoId": "SqKKXsy95No",
+      "title": "세련된 중년 가을 가죽자켓 맨투맨 코디",
+      "date": "2026-10-17",
+      "publishAt": "2026-10-17T11:00:00.000Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/SqKKXsy95No.jpg",
+      "products": [
+        {
+          "name": "청담코코 여성 가죽자켓 오버핏 (블랙)",
+          "short": "가죽자켓",
+          "link": "https://link.coupang.com/a/hRBfrsp2ui",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "아피나르 그래픽 스웻셔츠 Manhattan 맨투맨 (네이비)",
+          "short": "맨투맨",
+          "link": "https://link.coupang.com/a/hRBvgNFH52",
+          "sub": null,
+          "soldout": false
+        }
+      ]
+    },
+    {
+      "id": "20261015-2928ce6b",
+      "videoId": "L3rMUMKBN_0",
+      "title": "세련된 중년 가을 트렌치코트 니트 코디",
+      "date": "2026-10-17",
+      "publishAt": "2026-10-17T06:00:00.000Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/L3rMUMKBN_0.jpg",
+      "products": [
+        {
+          "name": "루스리더 여성 영국풍 와이드 트렌치코트 E118 (베이지)",
+          "short": "트렌치코트",
+          "link": "https://link.coupang.com/a/hRACmllcm4",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "제이지나 여성 반목 반팔 니트 니트티 (블랙)",
+          "short": "니트",
+          "link": "https://link.coupang.com/a/hRA1p4cdi0",
+          "sub": null,
+          "soldout": false
+        }
+      ]
+    },
+    {
+      "id": "20261014-cf8365fa",
+      "videoId": "E1zBE1mLSCk",
+      "title": "세련된 중년 가을 집업 투피스 코디",
+      "date": "2026-10-16",
+      "publishAt": "2026-10-16T11:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/E1zBE1mLSCk.jpg",
+      "products": [
+        {
+          "name": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
+          "short": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
+          "link": "https://link.coupang.com/a/hQcEqoKfJZ"
+        }
+      ]
+    },
+    {
+      "id": "20261014-44c6b30e",
+      "videoId": "zP7VgRVOVB0",
+      "title": "세련된 중년 가을 가죽자켓 니트 코디",
+      "date": "2026-10-16",
+      "publishAt": "2026-10-16T06:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/zP7VgRVOVB0.jpg",
+      "products": [
+        {
+          "name": "뮤리엘 여성용 네모 단추 포인트 레더 자켓",
+          "short": "가죽자켓",
+          "link": "https://link.coupang.com/a/hQirjvtIcK",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "제이지나 여성 반팔 니트 라운드 니트티",
+          "short": "니트",
+          "link": "https://link.coupang.com/a/hQiK9GbW1s",
+          "sub": null,
+          "soldout": false
+        }
+      ]
+    }
+  ]
 }
