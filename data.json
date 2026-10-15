@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:18:54.997Z",
+  "updatedAt": "2026-10-15T10:37:17.520Z",
   "videos": [
     {
       "id": "20261015-8e34d904",
@@ -25,7 +25,11 @@
           "sub": null,
           "soldout": false
         }
-      ]
+      ],
+      "lookNo": "004",
+      "issueNo": 0,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     },
     {
       "id": "20261015-2928ce6b",
@@ -51,7 +55,11 @@
           "sub": null,
           "soldout": false
         }
-      ]
+      ],
+      "lookNo": "003",
+      "issueNo": 0,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     },
     {
       "id": "20261014-cf8365fa",
@@ -68,7 +76,11 @@
           "short": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
           "link": "https://link.coupang.com/a/hQcEqoKfJZ"
         }
-      ]
+      ],
+      "lookNo": "002",
+      "issueNo": 0,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     },
     {
       "id": "20261014-44c6b30e",
@@ -94,7 +106,11 @@
           "sub": null,
           "soldout": false
         }
-      ]
+      ],
+      "lookNo": "001",
+      "issueNo": 0,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     }
   ]
 }
