@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-15T10:42:54.652Z",
+  "updatedAt": "2026-10-15T10:46:41.433Z",
   "videos": [
     {
       "id": "20261015-8e34d904",
+      "projectLookNo": 4,
       "videoId": "SqKKXsy95No",
       "title": "세련된 중년 가을 가죽자켓 맨투맨 코디",
       "date": "2026-10-17",
@@ -33,6 +34,7 @@
     },
     {
       "id": "20261015-2928ce6b",
+      "projectLookNo": 3,
       "videoId": "L3rMUMKBN_0",
       "title": "세련된 중년 가을 트렌치코트 니트 코디",
       "date": "2026-10-17",
@@ -63,6 +65,7 @@
     },
     {
       "id": "20261014-cf8365fa",
+      "projectLookNo": 2,
       "videoId": "E1zBE1mLSCk",
       "title": "세련된 중년 가을 집업 투피스 코디",
       "date": "2026-10-16",
@@ -84,6 +87,7 @@
     },
     {
       "id": "20261014-44c6b30e",
+      "projectLookNo": 1,
       "videoId": "zP7VgRVOVB0",
       "title": "세련된 중년 가을 가죽자켓 니트 코디",
       "date": "2026-10-16",
