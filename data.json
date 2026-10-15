@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:37:17.520Z",
+  "updatedAt": "2026-10-15T10:37:35.374Z",
   "videos": [
     {
       "id": "20261015-8e34d904",
@@ -27,7 +27,7 @@
         }
       ],
       "lookNo": "004",
-      "issueNo": 0,
+      "issueNo": 1,
       "issueStart": 1791730800000,
       "issueLabel": "10/12~10/18"
     },
@@ -57,7 +57,7 @@
         }
       ],
       "lookNo": "003",
-      "issueNo": 0,
+      "issueNo": 1,
       "issueStart": 1791730800000,
       "issueLabel": "10/12~10/18"
     },
@@ -78,7 +78,7 @@
         }
       ],
       "lookNo": "002",
-      "issueNo": 0,
+      "issueNo": 1,
       "issueStart": 1791730800000,
       "issueLabel": "10/12~10/18"
     },
@@ -108,7 +108,7 @@
         }
       ],
       "lookNo": "001",
-      "issueNo": 0,
+      "issueNo": 1,
       "issueStart": 1791730800000,
       "issueLabel": "10/12~10/18"
     }
