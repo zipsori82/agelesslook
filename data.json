@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-16T03:32:17.311Z",
+  "updatedAt": "2026-10-16T05:13:59.281Z",
   "videos": [
+    {
+      "id": "20261016-9acba693",
+      "projectLookNo": 5,
+      "videoId": "QYnBvKThvAc",
+      "title": "런던에서 입은 가을 니트와 청바지 코디",
+      "date": "2026-10-18",
+      "publishAt": "2026-10-18T06:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/QYnBvKThvAc.jpg",
+      "products": [
+        {
+          "name": "ELLE PARIS 베이직 꽈배기 니트 스웨터 (아이보리)",
+          "short": "니트",
+          "link": "https://link.coupang.com/a/hS60lUNusm",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "엘블로썸 여성 스판 와이드 히든밴드 청바지 (연청)",
+          "short": "청바지",
+          "link": "https://link.coupang.com/a/hS7VjoEpxI",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "005",
+      "issueNo": 1,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
+    },
     {
       "id": "20261015-8e34d904",
       "projectLookNo": 4,
