@@ -1,47 +1,16 @@
 {
-  "updatedAt": "2026-10-17T08:01:59.619Z",
+  "updatedAt": "2026-10-17T13:35:38.626Z",
   "videos": [
-    {
-      "id": "20261016-ee63faae",
-      "projectLookNo": 6,
-      "videoId": "8AgHX5hCxyo",
-      "title": "옷잘입는 중년 가을 트위드자켓 와이드슬랙스 코디",
-      "date": "2026-10-18",
-      "publishAt": "2026-10-18T11:00:00Z",
-      "privacy": "private",
-      "upcoming": true,
-      "thumb": "thumbs/8AgHX5hCxyo.jpg",
-      "products": [
-        {
-          "name": "UPPERCUT 여성 라운드넥 클래식 트위드 자켓 (블랙)",
-          "short": "트위드자켓",
-          "link": "https://link.coupang.com/a/hS8jzfbWdE",
-          "sub": null,
-          "soldout": false
-        },
-        {
-          "name": "여성 사계절 링클프리 투핀턱 와이드 스판 슬랙스 (화이트)",
-          "short": "와이드슬랙스",
-          "link": "https://link.coupang.com/a/hS8J3A6ru0",
-          "sub": null,
-          "soldout": false
-        }
-      ],
-      "lookNo": "006",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
-    },
     {
       "id": "20261016-9acba693",
       "projectLookNo": 5,
-      "videoId": "5OvhwmIfMp4",
+      "videoId": "xBI9zbxQFM4",
       "title": "옷잘입는 중년 가을 니트 청바지 코디",
-      "date": "2026-10-18",
-      "publishAt": "2026-10-18T06:00:00Z",
+      "date": "2026-10-21",
+      "publishAt": "2026-10-21T06:00:00Z",
       "privacy": "private",
       "upcoming": true,
-      "thumb": "thumbs/5OvhwmIfMp4.jpg",
+      "thumb": "thumbs/xBI9zbxQFM4.jpg",
       "products": [
         {
           "name": "ELLE PARIS 베이직 꽈배기 니트 스웨터 (아이보리)",
@@ -59,124 +28,9 @@
         }
       ],
       "lookNo": "005",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
-    },
-    {
-      "id": "20261015-8e34d904",
-      "projectLookNo": 4,
-      "videoId": "4-9A2o3WewI",
-      "title": "세련된 중년 가을 가죽자켓 맨투맨 코디",
-      "date": "2026-10-17",
-      "publishAt": "2026-10-17T11:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
-      "thumb": "thumbs/4-9A2o3WewI.jpg",
-      "products": [
-        {
-          "name": "청담코코 여성 가죽자켓 오버핏 (블랙)",
-          "short": "가죽자켓",
-          "link": "https://link.coupang.com/a/hRBfrsp2ui",
-          "sub": null,
-          "soldout": false
-        },
-        {
-          "name": "아피나르 그래픽 스웻셔츠 Manhattan 맨투맨 (네이비)",
-          "short": "맨투맨",
-          "link": "https://link.coupang.com/a/hRBvgNFH52",
-          "sub": null,
-          "soldout": false
-        }
-      ],
-      "lookNo": "004",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
-    },
-    {
-      "id": "20261015-2928ce6b",
-      "projectLookNo": 3,
-      "videoId": "Xv9RgG3FTVs",
-      "title": "세련된 중년 가을 니트 코디",
-      "date": "2026-10-17",
-      "publishAt": "2026-10-17T06:00:00.000Z",
-      "privacy": "public",
-      "upcoming": false,
-      "thumb": "thumbs/Xv9RgG3FTVs.jpg",
-      "products": [
-        {
-          "name": "루스리더 여성 영국풍 와이드 트렌치코트 E118 (베이지)",
-          "short": "트렌치코트",
-          "link": "https://link.coupang.com/a/hRACmllcm4",
-          "sub": null,
-          "soldout": false
-        },
-        {
-          "name": "제이지나 여성 반목 반팔 니트 니트티 (블랙)",
-          "short": "니트",
-          "link": "https://link.coupang.com/a/hRA1p4cdi0",
-          "sub": null,
-          "soldout": false
-        }
-      ],
-      "lookNo": "003",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
-    },
-    {
-      "id": "20261014-cf8365fa",
-      "projectLookNo": 2,
-      "videoId": "iTCjaqByHx0",
-      "title": "세련된 중년 가을 투피스 세트 코디",
-      "date": "2026-10-16",
-      "publishAt": "2026-10-16T11:00:00Z",
-      "privacy": "public",
-      "upcoming": false,
-      "thumb": "thumbs/iTCjaqByHx0.jpg",
-      "products": [
-        {
-          "name": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
-          "short": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
-          "link": "https://link.coupang.com/a/hQcEqoKfJZ"
-        }
-      ],
-      "lookNo": "002",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
-    },
-    {
-      "id": "20261014-44c6b30e",
-      "projectLookNo": 1,
-      "videoId": "M18ldVJkxEM",
-      "title": "세련된 중년 가을 가죽자켓 니트 코디",
-      "date": "2026-10-16",
-      "publishAt": "2026-10-16T06:00:00Z",
-      "privacy": "public",
-      "upcoming": false,
-      "thumb": "thumbs/M18ldVJkxEM.jpg",
-      "products": [
-        {
-          "name": "뮤리엘 여성용 네모 단추 포인트 레더 자켓",
-          "short": "가죽자켓",
-          "link": "https://link.coupang.com/a/hQirjvtIcK",
-          "sub": null,
-          "soldout": false
-        },
-        {
-          "name": "제이지나 여성 반팔 니트 라운드 니트티",
-          "short": "니트",
-          "link": "https://link.coupang.com/a/hQiK9GbW1s",
-          "sub": null,
-          "soldout": false
-        }
-      ],
-      "lookNo": "001",
-      "issueNo": 1,
-      "issueStart": 1791730800000,
-      "issueLabel": "10/12~10/18"
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
     }
   ]
 }
