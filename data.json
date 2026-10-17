@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:29:35.567Z",
+  "updatedAt": "2026-10-17T08:01:59.619Z",
   "videos": [
     {
       "id": "20261016-ee63faae",
@@ -101,8 +101,8 @@
       "title": "세련된 중년 가을 니트 코디",
       "date": "2026-10-17",
       "publishAt": "2026-10-17T06:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/Xv9RgG3FTVs.jpg",
       "products": [
         {
