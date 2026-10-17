@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:35:52.540Z",
+  "updatedAt": "2026-10-17T13:36:08.070Z",
   "videos": [
     {
       "id": "20261016-9acba693",
@@ -59,6 +59,37 @@
         }
       ],
       "lookNo": "004",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
+    {
+      "id": "20261015-2928ce6b",
+      "projectLookNo": 3,
+      "videoId": "CA8qt1SQZDw",
+      "title": "세련된 중년 가을 니트 코디",
+      "date": "2026-10-20",
+      "publishAt": "2026-10-20T06:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/CA8qt1SQZDw.jpg",
+      "products": [
+        {
+          "name": "루스리더 여성 영국풍 와이드 트렌치코트 E118 (베이지)",
+          "short": "트렌치코트",
+          "link": "https://link.coupang.com/a/hRACmllcm4",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "제이지나 여성 반목 반팔 니트 니트티 (블랙)",
+          "short": "니트",
+          "link": "https://link.coupang.com/a/hRA1p4cdi0",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "003",
       "issueNo": 2,
       "issueStart": 1792335600000,
       "issueLabel": "10/19~10/25"
