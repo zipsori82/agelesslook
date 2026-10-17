@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:35:38.626Z",
+  "updatedAt": "2026-10-17T13:35:52.540Z",
   "videos": [
     {
       "id": "20261016-9acba693",
@@ -28,6 +28,37 @@
         }
       ],
       "lookNo": "005",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
+    {
+      "id": "20261015-8e34d904",
+      "projectLookNo": 4,
+      "videoId": "5ZUnZZ4BqBM",
+      "title": "세련된 중년 가을 가죽자켓 맨투맨 코디",
+      "date": "2026-10-20",
+      "publishAt": "2026-10-20T11:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/5ZUnZZ4BqBM.jpg",
+      "products": [
+        {
+          "name": "청담코코 여성 가죽자켓 오버핏 (블랙)",
+          "short": "가죽자켓",
+          "link": "https://link.coupang.com/a/hRBfrsp2ui",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "아피나르 그래픽 스웻셔츠 Manhattan 맨투맨 (네이비)",
+          "short": "맨투맨",
+          "link": "https://link.coupang.com/a/hRBvgNFH52",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "004",
       "issueNo": 2,
       "issueStart": 1792335600000,
       "issueLabel": "10/19~10/25"
