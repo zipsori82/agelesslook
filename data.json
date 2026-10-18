@@ -1,13 +1,44 @@
 {
-  "updatedAt": "2026-10-17T13:36:34.774Z",
+  "updatedAt": "2026-10-18T03:04:43.028Z",
   "videos": [
+    {
+      "id": "20261016-ee63faae",
+      "projectLookNo": 6,
+      "videoId": "hBrMsX8wZcI",
+      "title": "옷잘입는 중년 가을 트위드자켓 와이드슬랙스 코디",
+      "date": "2026-10-20",
+      "publishAt": "2026-10-20T11:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/hBrMsX8wZcI.jpg",
+      "products": [
+        {
+          "name": "UPPERCUT 여성 라운드넥 클래식 트위드 자켓 (블랙)",
+          "short": "트위드자켓",
+          "link": "https://link.coupang.com/a/hS8jzfbWdE",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "여성 사계절 링클프리 투핀턱 와이드 스판 슬랙스 (화이트)",
+          "short": "와이드슬랙스",
+          "link": "https://link.coupang.com/a/hS8J3A6ru0",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "006",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
     {
       "id": "20261016-9acba693",
       "projectLookNo": 5,
       "videoId": "xBI9zbxQFM4",
       "title": "옷잘입는 중년 가을 니트 청바지 코디",
-      "date": "2026-10-21",
-      "publishAt": "2026-10-21T06:00:00Z",
+      "date": "2026-10-20",
+      "publishAt": "2026-10-20T06:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/xBI9zbxQFM4.jpg",
@@ -37,8 +68,8 @@
       "projectLookNo": 4,
       "videoId": "5ZUnZZ4BqBM",
       "title": "세련된 중년 가을 가죽자켓 맨투맨 코디",
-      "date": "2026-10-20",
-      "publishAt": "2026-10-20T11:00:00Z",
+      "date": "2026-10-19",
+      "publishAt": "2026-10-19T11:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/5ZUnZZ4BqBM.jpg",
@@ -68,8 +99,8 @@
       "projectLookNo": 3,
       "videoId": "CA8qt1SQZDw",
       "title": "세련된 중년 가을 니트 코디",
-      "date": "2026-10-20",
-      "publishAt": "2026-10-20T06:00:00Z",
+      "date": "2026-10-19",
+      "publishAt": "2026-10-19T06:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/CA8qt1SQZDw.jpg",
@@ -99,8 +130,8 @@
       "projectLookNo": 2,
       "videoId": "9a2UrKVhHxY",
       "title": "세련된 중년 가을 투피스 세트 코디",
-      "date": "2026-10-19",
-      "publishAt": "2026-10-19T11:00:00Z",
+      "date": "2026-10-18",
+      "publishAt": "2026-10-18T11:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/9a2UrKVhHxY.jpg",
@@ -112,17 +143,17 @@
         }
       ],
       "lookNo": "002",
-      "issueNo": 2,
-      "issueStart": 1792335600000,
-      "issueLabel": "10/19~10/25"
+      "issueNo": 1,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     },
     {
       "id": "20261014-44c6b30e",
       "projectLookNo": 1,
       "videoId": "IJAq-TVnwto",
       "title": "세련된 중년 가을 가죽자켓 니트 코디",
-      "date": "2026-10-19",
-      "publishAt": "2026-10-19T06:00:00Z",
+      "date": "2026-10-18",
+      "publishAt": "2026-10-18T06:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/IJAq-TVnwto.jpg",
@@ -143,9 +174,9 @@
         }
       ],
       "lookNo": "001",
-      "issueNo": 2,
-      "issueStart": 1792335600000,
-      "issueLabel": "10/19~10/25"
+      "issueNo": 1,
+      "issueStart": 1791730800000,
+      "issueLabel": "10/12~10/18"
     }
   ]
 }
