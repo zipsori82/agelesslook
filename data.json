@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T05:46:24.578Z",
+  "updatedAt": "2026-10-19T05:54:49.706Z",
   "videos": [
     {
       "id": "20261014-cf8365fa",
@@ -7,7 +7,7 @@
       "videoId": "5LfMqyc2pWM",
       "title": "꾸안꾸 중년 가을 투피스 세트 코디",
       "date": "2026-10-19",
-      "publishAt": "2026-10-19T06:00:00.000Z",
+      "publishAt": "2026-10-19T11:00:00.000Z",
       "privacy": "private",
       "upcoming": true,
       "thumb": "thumbs/5LfMqyc2pWM.jpg",
@@ -19,6 +19,37 @@
         }
       ],
       "lookNo": "002",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
+    {
+      "id": "20261014-44c6b30e",
+      "projectLookNo": 1,
+      "videoId": "aYrtTc9uOwI",
+      "title": "세련된 중년 가을 가죽자켓 니트 코디",
+      "date": "2026-10-19",
+      "publishAt": "2026-10-19T06:00:00.000Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/aYrtTc9uOwI.jpg",
+      "products": [
+        {
+          "name": "뮤리엘 여성용 네모 단추 포인트 레더 자켓",
+          "short": "가죽자켓",
+          "link": "https://link.coupang.com/a/hQirjvtIcK",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "제이지나 여성 반팔 니트 라운드 니트티",
+          "short": "니트",
+          "link": "https://link.coupang.com/a/hQiK9GbW1s",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "001",
       "issueNo": 2,
       "issueStart": 1792335600000,
       "issueLabel": "10/19~10/25"
