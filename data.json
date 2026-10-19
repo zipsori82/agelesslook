@@ -1,38 +1,16 @@
 {
-  "updatedAt": "2026-10-19T05:54:49.706Z",
+  "updatedAt": "2026-10-19T06:19:10.482Z",
   "videos": [
-    {
-      "id": "20261014-cf8365fa",
-      "projectLookNo": 2,
-      "videoId": "5LfMqyc2pWM",
-      "title": "꾸안꾸 중년 가을 투피스 세트 코디",
-      "date": "2026-10-19",
-      "publishAt": "2026-10-19T11:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
-      "thumb": "thumbs/5LfMqyc2pWM.jpg",
-      "products": [
-        {
-          "name": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
-          "short": "vosim 여성 가을 라운드넥 크롭 집업 와이드 팬츠 투피스 세트",
-          "link": "https://link.coupang.com/a/hQcEqoKfJZ"
-        }
-      ],
-      "lookNo": "002",
-      "issueNo": 2,
-      "issueStart": 1792335600000,
-      "issueLabel": "10/19~10/25"
-    },
     {
       "id": "20261014-44c6b30e",
       "projectLookNo": 1,
-      "videoId": "aYrtTc9uOwI",
+      "videoId": "qHflQSHzVSQ",
       "title": "세련된 중년 가을 가죽자켓 니트 코디",
       "date": "2026-10-19",
-      "publishAt": "2026-10-19T06:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
-      "thumb": "thumbs/aYrtTc9uOwI.jpg",
+      "publishAt": "2026-10-19T06:19:10.254Z",
+      "privacy": "public",
+      "upcoming": false,
+      "thumb": "thumbs/qHflQSHzVSQ.jpg",
       "products": [
         {
           "name": "뮤리엘 여성용 네모 단추 포인트 레더 자켓",
