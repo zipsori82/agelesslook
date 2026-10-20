@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-20T05:53:44.620Z",
+  "updatedAt": "2026-10-20T05:54:17.178Z",
   "videos": [
+    {
+      "id": "20261020-3bebcbd8",
+      "projectLookNo": 8,
+      "videoId": "8WwJlY1tass",
+      "title": "서울에서 입은 가을 후리스와 코듀로이 팬츠 코디",
+      "date": "2026-10-22",
+      "publishAt": "2026-10-22T11:00:00.000Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/8WwJlY1tass.jpg",
+      "products": [
+        {
+          "name": "하바우 남녀공용 포근한 뽀글이 후리스 플리스 자켓 1P",
+          "short": "후리스",
+          "link": "https://link.coupang.com/a/hZLOBrH6K4",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "MUGIO 여성 코듀로이 골덴 와이드 팬츠",
+          "short": "코듀로이팬츠",
+          "link": "https://link.coupang.com/a/hZL5FoptZs",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "008",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
     {
       "id": "20261020-d80c1d4b",
       "projectLookNo": 7,
