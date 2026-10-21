@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:54:17.178Z",
+  "updatedAt": "2026-10-21T02:19:26.514Z",
   "videos": [
     {
       "id": "20261020-3bebcbd8",
@@ -132,8 +132,8 @@
       "title": "멋진 중년 가을 가죽자켓 맨투맨 코디",
       "date": "2026-10-20",
       "publishAt": "2026-10-20T11:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/Aa9fnKgA344.jpg",
       "products": [
         {
@@ -163,8 +163,8 @@
       "title": "편안한 중년 가을 니트 데일리룩 코디",
       "date": "2026-10-20",
       "publishAt": "2026-10-20T06:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/mZryC8WrcDc.jpg",
       "products": [
         {
