@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-22T02:13:54.158Z",
+  "updatedAt": "2026-10-22T06:11:33.739Z",
   "videos": [
+    {
+      "id": "20261021-5bba544e",
+      "projectLookNo": 9,
+      "videoId": "WSVeshh7HWo",
+      "title": "뉴욕에서 입은 가을 무스탕 앵클부츠 코디",
+      "date": "2026-10-23",
+      "publishAt": "2026-10-23T06:00:00Z",
+      "privacy": "private",
+      "upcoming": true,
+      "thumb": "thumbs/WSVeshh7HWo.jpg",
+      "products": [
+        {
+          "name": "루메코23 하이넥 무스탕 J-78",
+          "short": "무스탕",
+          "link": "https://link.coupang.com/a/h1JgYX6cii",
+          "sub": null,
+          "soldout": false
+        },
+        {
+          "name": "단골언니 모어댄 쫀쫀핏 스판 앵클부츠 7cm",
+          "short": "앵클부츠",
+          "link": "https://link.coupang.com/a/h1JpGOQynk",
+          "sub": null,
+          "soldout": false
+        }
+      ],
+      "lookNo": "009",
+      "issueNo": 2,
+      "issueStart": 1792335600000,
+      "issueLabel": "10/19~10/25"
+    },
     {
       "id": "20261020-3bebcbd8",
       "projectLookNo": 8,
@@ -39,8 +70,8 @@
       "title": "서울에서 입은 가을 터틀넥 니트와 아우터 코디",
       "date": "2026-10-22",
       "publishAt": "2026-10-22T06:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/a3SHCu5w8JU.jpg",
       "products": [
         {
