@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:43:50.500Z",
+  "updatedAt": "2026-10-23T03:02:02.589Z",
   "videos": [
     {
       "id": "20261021-6adf33e0",
@@ -70,8 +70,8 @@
       "title": "서울에서 입은 가을 후리스와 코듀로이 팬츠 코디",
       "date": "2026-10-22",
       "publishAt": "2026-10-22T11:00:00.000Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/8WwJlY1tass.jpg",
       "products": [
         {
