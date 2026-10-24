@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T03:02:02.589Z",
+  "updatedAt": "2026-10-24T00:00:04.193Z",
   "videos": [
     {
       "id": "20261021-6adf33e0",
@@ -8,8 +8,8 @@
       "title": "파리에서 입은 가을 맨투맨 머플러 코디",
       "date": "2026-10-23",
       "publishAt": "2026-10-23T11:00:00Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/1CKP3VIgbEI.jpg",
       "products": [
         {
@@ -39,8 +39,8 @@
       "title": "뉴욕에서 입은 가을 무스탕 앵클부츠 코디",
       "date": "2026-10-23",
       "publishAt": "2026-10-23T06:00:00Z",
-      "privacy": "private",
-      "upcoming": true,
+      "privacy": "public",
+      "upcoming": false,
       "thumb": "thumbs/3s6ps9OHaew.jpg",
       "products": [
         {
